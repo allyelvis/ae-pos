@@ -1,0 +1,15 @@
+/* Existing styles */
+
+#admin-panel, #login-form {
+    width: 50%;
+    margin: 0 auto;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label, input, button {
+    margin: 10px 0;
+}
