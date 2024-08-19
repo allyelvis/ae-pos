@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "herrherrmann.angular-bootstrap"
+        "herrherrmann.angular-bootstrap",
+        "johnsoncodehk.vscode-typescript-web"
     ]
 }
