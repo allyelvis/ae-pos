@@ -30,3 +30,4 @@ Aenzbi is a comprehensive eCommerce and Point of Sale (POS) system designed to m
    ```bash
    git clone https://github.com/allyelvis/aeNext.js.git
    cd aeNext.js
+# Enhancement log for ae-pos on Tue Dec  3 09:05:14 PM UTC 2024
